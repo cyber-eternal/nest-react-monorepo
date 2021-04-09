@@ -1,8 +1,8 @@
 {
-  "name": "nest-test",
+  "name": "nest-react-monorepo",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Monorepo based on the Nest.js and React",
+  "author": "cyber-eternal",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
